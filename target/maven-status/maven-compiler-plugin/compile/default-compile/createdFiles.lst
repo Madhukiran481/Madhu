@@ -1,0 +1,6 @@
+com\convergys\spring\bootstrap\controller\Test.class
+com\convergys\spring\bootstrap\controller\DefaultController.class
+com\convergys\cit\agentInfo\AgentStatus.class
+com\convergys\cit\agentInfo\AgentResource.class
+com\convergys\cit\agentInfo\AgentInfo.class
+com\convergys\cit\agentInfo\Agent.class
