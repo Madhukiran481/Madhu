@@ -1,0 +1,38 @@
+[
+  {
+   
+    "id": 1,
+    "fullname":"Madhu Kiran Katakam",
+    "mobile":"1234567890",
+    "pincode": "500018",
+    "flatno": "13b",
+    "streetname": "nehrunagar",
+    "landmark": "near post office",
+    "city":"Hyderabad",
+    "state":"Telangana"
+  },
+  {
+    
+    "id": 2,
+    "fullname":"Keerthi Thangavelu",
+    "mobile":"547675555",
+    "pincode": "500022",
+    "flatno": "23b",
+    "streetname": "gandhinagar",
+    "landmark": "near D-Mart",
+    "city":"Hyderabad",
+    "state":"Telangana"
+  },
+  {
+   
+    "id": 3,
+    "fullname":"Mahi",
+    "mobile":"346546755",
+    "pincode": "500021",
+    "flatno": "123",
+    "streetname": "SaiNagar",
+    "landmark": "near police station",
+    "city":"Hyderabad",
+    "state":"Telangana"
+  }
+]
